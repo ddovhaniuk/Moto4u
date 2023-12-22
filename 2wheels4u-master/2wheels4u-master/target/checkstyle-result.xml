@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\Application.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\bot\NotificationBot.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\config\AppConfig.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\config\OpenApiConfig.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\config\SecurityConfig.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\controller\AuthenticationController.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\controller\MotorcycleController.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\controller\PaymentController.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\controller\RentalController.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\controller\UserController.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\dto\request\MotorcycleRequestDto.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\dto\request\PaymentRequestDto.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\dto\request\RentalRequestDto.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\dto\request\UserLoginRequestDto.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\dto\request\UserRegisterRequestDto.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\dto\request\UserRequestDto.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\dto\response\MotorcycleResponseDto.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\dto\response\PaymentResponseDto.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\dto\response\RentalResponseDto.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\dto\response\UserResponseDto.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\exception\AuthenticationException.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\exception\CustomGlobalExceptionHandler.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\exception\ErrorResponse.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\exception\UserAlreadyRegisteredException.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\mapper\MapperConfig.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\mapper\MotorcycleMapper.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\mapper\PaymentMapper.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\mapper\RentalMapper.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\mapper\UserMapper.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\model\Motorcycle.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\model\Payment.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\model\Rental.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\model\User.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\repository\MotorcycleRepository.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\repository\PaymentRepository.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\repository\RentalRepository.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\repository\specification\motorcycle\MotorcycleBrandInSpecification.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\repository\specification\motorcycle\MotorcycleDailyFeeInSpecification.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\repository\specification\motorcycle\MotorcycleModelInSpecification.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\repository\specification\motorcycle\MotorcycleTypeInSpecification.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\repository\specification\MotorcycleSpecificationManager.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\repository\specification\SpecificationManager.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\repository\specification\SpecificationProvider.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\repository\UserRepository.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\security\AuthenticationService.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\security\impl\AuthenticationServiceImpl.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\security\jwt\JwtFilter.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\security\jwt\JwtService.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\security\UserDetailsServiceImpl.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\service\impl\MotorcycleServiceImpl.java">
+<error line="13" severity="error" message="Wrong lexicographical order for &apos;org.twowheels4u.model.Motorcycle&apos; import. Should be before &apos;org.twowheels4u.repository.specification.SpecificationManager&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\service\impl\PaymentCalculationServiceImpl.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\service\impl\PaymentServiceImpl.java">
+<error line="8" severity="error" message="Wrong lexicographical order for &apos;org.twowheels4u.model.Payment&apos; import. Should be before &apos;org.twowheels4u.repository.PaymentRepository&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\service\impl\RentalServiceImpl.java">
+<error line="9" severity="error" message="Wrong lexicographical order for &apos;org.twowheels4u.model.Motorcycle&apos; import. Should be before &apos;org.twowheels4u.repository.RentalRepository&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="10" severity="error" message="Wrong lexicographical order for &apos;org.twowheels4u.model.Rental&apos; import. Should be before &apos;org.twowheels4u.repository.RentalRepository&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\service\impl\TelegramNotificationServiceImpl.java">
+<error line="13" severity="error" message="Wrong lexicographical order for &apos;org.twowheels4u.model.Motorcycle&apos; import. Should be before &apos;org.twowheels4u.service.UserService&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="14" severity="error" message="Wrong lexicographical order for &apos;org.twowheels4u.model.Payment&apos; import. Should be before &apos;org.twowheels4u.service.UserService&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="15" severity="error" message="Wrong lexicographical order for &apos;org.twowheels4u.model.Rental&apos; import. Should be before &apos;org.twowheels4u.service.UserService&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="16" severity="error" message="Wrong lexicographical order for &apos;org.twowheels4u.model.User&apos; import. Should be before &apos;org.twowheels4u.service.UserService&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="17" severity="error" message="Wrong lexicographical order for &apos;org.twowheels4u.service.MotorcycleService&apos; import. Should be before &apos;org.twowheels4u.service.UserService&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="18" severity="error" message="Wrong lexicographical order for &apos;org.twowheels4u.service.RentalService&apos; import. Should be before &apos;org.twowheels4u.service.UserService&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\service\impl\UserServiceImpl.java">
+<error line="12" severity="error" message="Wrong lexicographical order for &apos;org.twowheels4u.model.User&apos; import. Should be before &apos;org.twowheels4u.repository.UserRepository&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\service\MotorcycleService.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\service\NotificationService.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\service\PaymentCalculationService.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\service\PaymentService.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\service\RentalService.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\service\stripe\impl\PaymentProviderServiceImpl.java">
+<error line="12" severity="error" message="Wrong lexicographical order for &apos;org.twowheels4u.model.Payment&apos; import. Should be before &apos;org.twowheels4u.service.stripe.PaymentProviderService&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="13" severity="error" message="Wrong lexicographical order for &apos;org.twowheels4u.service.PaymentService&apos; import. Should be before &apos;org.twowheels4u.service.stripe.PaymentProviderService&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\service\stripe\PaymentProviderService.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\service\UserService.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\util\RequestParamParser.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\util\validation\EmailValidator.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\util\validation\PasswordMatch.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\util\validation\PasswordMatchValidator.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\util\validation\PasswordValidator.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\util\validation\ValidEmail.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\java\org\twowheels4u\util\validation\ValidPassword.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\target\generated-sources\annotations\org\twowheels4u\mapper\impl\MotorcycleMapperImpl.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\target\generated-sources\annotations\org\twowheels4u\mapper\impl\PaymentMapperImpl.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\target\generated-sources\annotations\org\twowheels4u\mapper\impl\RentalMapperImpl.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\target\generated-sources\annotations\org\twowheels4u\mapper\impl\UserMapperImpl.java">
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\main\resources\application.properties">
+<error line="9" severity="error" message="Line is longer than 100 characters (found 121)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="C:\Users\vladb\OneDrive\Робочий стіл\2wheels4u-master\2wheels4u-master\src\test\resources\application.properties">
+</file>
+</checkstyle>
